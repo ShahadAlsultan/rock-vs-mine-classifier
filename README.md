@@ -8,4 +8,5 @@ A Streamlit web app that classifies SONAR signals as Rock or Mine using an SVM m
 - Model evaluation (Accuracy, Confusion Matrix, Classification Report)
 
 ## How to run
-streamlit run s.py
+streamlit run sa.py
+
